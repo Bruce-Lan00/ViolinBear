@@ -16,10 +16,3 @@ ViolinBear is an experimental iPad + backend app that helps violin learners and 
 - Future plans: position shifts, tape-assist for beginners, Apple Pencil annotations, offline cache.
 
 ---
-
-## Quick Start
-1. Clone this repo.
-2. Install Python requirements:
-   ```bash
-   pip install -r requirements.txt
-   python backend/app.py
