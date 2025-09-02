@@ -4,7 +4,7 @@
 
 ## Introduction
 ViolinBear is an open-source project for **automatic violin sheet music recognition and fingering suggestion**.  
-It integrates **[Audiveris OMR].(https://github.com/Audiveris/audiveris)**, a **Python backend**, and a **SwiftUI frontend app**, to help learners and players get instant fingering annotations on scores.  
+It integrates **[Audiveris OMR](https://github.com/Audiveris/audiveris)**, a **Python backend**, and a **SwiftUI frontend app**, to help learners and players get instant fingering annotations on scores.  
 
 ---
 
