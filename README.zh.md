@@ -6,7 +6,7 @@
 ViolinBear 是一个 **小提琴谱自动识别与指法推荐** 的开源项目。  
 它结合 **[Audiveris OMR](https://github.com/Audiveris/audiveris)**、**Python 后端逻辑** 和 **SwiftUI 前端 App**，帮助学习者和演奏者快速得到乐谱的指法标注。  
 
-请观看这个简单的**[演示视频](https://www.xiaohongshu.com/discovery/item/6880bcbc000000000d025b9f?source=webshare&xhsshare=pc_web&xsec_token=ABt0iDrK6-_G90slb4FPPuK52brwTRIXRSWnoTB8SuRXU=&xsec_source=pc_share)**：
+请观看这个简单的 **[演示视频](https://www.xiaohongshu.com/discovery/item/6880bcbc000000000d025b9f?source=webshare&xhsshare=pc_web&xsec_token=ABt0iDrK6-_G90slb4FPPuK52brwTRIXRSWnoTB8SuRXU=&xsec_source=pc_share)**：
 
 ---
 
