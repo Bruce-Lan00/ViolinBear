@@ -9,7 +9,7 @@
 
 📺 **项目演示视频**:
 - [YouTube Shorts 演示](https://www.youtube.com/shorts/TlUFP1Flaps)
-- [小红书 演示](https://www.xiaohongshu.com/discovery/item/6880bcbc000000000d025b9f?source=webshare&xhsshare=pc_web&xsec_token=ABt0iDrK6-_G90slb4FPPuK52brwTRIXRSWnoTB8SuRXU=&xsec_source=pc_share)
+- [小红书 演示](http://xhslink.com/o/94jdhcRheSy)
 
 ---
 
